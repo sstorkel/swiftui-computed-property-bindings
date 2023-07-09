@@ -1,0 +1,1 @@
+# swiftui-computed-property-bindings
